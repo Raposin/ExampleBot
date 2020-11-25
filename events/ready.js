@@ -1,1 +1,1 @@
-module.exports = async client => client.user.setActivity("Using github.com/Snuffz/discord-tutorial-bot repository")
+module.exports = async client => client.user.setActivity("Using https://github.com/Snuffz/ExampleBot repository")
